@@ -37,6 +37,12 @@ ello se deberá colaborar económicamente con el evento.
 Una empresa o entidad no podrá organizar un evento WordPress, pero si sus miembros. Por ejemplo la empresa EMPRESA S.A.
 no puede ser organizador de una meetup, pero si Pedro Lopéz de EMPRESA S.A.
 
+Se tendrá especial cuidado con las ponencias ofrecidas por empresas o profesionales con el único fin de
+promocionar su producto o servicio (por ejemplo plugin comerciales) Si una empresa o profesional desea participar en
+el evento de esta manera deberá indicarse claramente que se trata de una charla o ponencia PATROCINADA y se deberá 
+ofrece una contraprestación económica por ello, de manera que se diferencie claramente de las ponencias ofrecidas sin
+ánimo de lucro.
+
 
 
                                               
