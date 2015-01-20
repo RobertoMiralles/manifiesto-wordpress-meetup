@@ -1,3 +1,47 @@
 Manifiesto WordPress Meetup
 20 Enero 2015
 
+Mediante el presente Manifiesto, pretendemos crear unas normas de conducta a seguir en los eventos 
+creados por y para la comunidad WordPress.
+Con ello se pretende que los eventos tipo Meetup o reuniones informales, tengan una uniformidad de criterios 
+a seguir, teniendo en cuenta que el fin principal es la difusión del software libre, abierto y gratuito WordPress.
+
+IDEAS Y CONCEPTOS PREVIOS QUE SERÁN REVISADOS ANTES DE CREAR EL MANIFIESTO:
+############################################################################
+El evento es para la promoción de WordPress.
+
+Lo organizaremos desde la comunidad local, por lo que cualquiera que quiera o pueda aportar algo será bienvenido.
+
+Aunque lo organicemos desde la comunidad local, cualquiera de la comunidad general será recibido en el evento.
+
+No habrá ánimo de lucro.
+
+El dinero recaudado servirá para sufragar los gastos de la organización del evento.
+
+El dinero sobrante servirá para la organización de futuros eventos o, si se diese el caso, 
+para ayudar a otros eventos similares en la región.Las ponencias tratarán sobre WordPress o aspectos que 
+afecten directamente a este sistema.
+
+El dinero será gestionado de manera transparente.
+
+Se deberá respetar la marca WordPress.
+
+Todo el evento tendrá licencia GPL; esto significa que las ponencias serán compartidas con el público general, 
+quedando disponibles para la comunidad.
+
+Los organizadores no podrán promocionar su marca por el simple hecho de haber organizado el evento.
+
+Para que un logotipo o marca comercial aparezca en el evento deberá tenerse la consideración de sponsor y para
+ello se deberá colaborar económicamente con el evento.
+
+Una empresa o entidad no podrá organizar un evento WordPress, pero si sus miembros. Por ejemplo la empresa EMPRESA S.A.
+no puede ser organizador de una meetup, pero si Pedro Lopéz de EMPRESA S.A.
+
+
+
+                                              
+                                              
+                                              
+                                              M A N I F I E S T O
+
+
