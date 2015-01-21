@@ -21,7 +21,10 @@ IDEAS Y CONCEPTOS PREVIOS QUE SERÁN REVISADOS ANTES DE CREAR EL MANIFIESTO:
 
     - El dinero recaudado servirá para sufragar los gastos de la organización del evento.
 
-    - El dinero sobrante servirá para la organización de futuros eventos o, si se diese el caso, para ayudar a otros eventos similares en la región.Las ponencias tratarán sobre WordPress o aspectos que afecten directamente a este sistema.
+    - El dinero sobrante servirá para la organización de futuros eventos o, si se diese el caso, para ayudar a otros 
+    eventos similares en la región.
+    
+    - Las ponencias tratarán sobre WordPress o aspectos que afecten directamente a este sistema.
 
     - El dinero será gestionado de manera transparente.
 
