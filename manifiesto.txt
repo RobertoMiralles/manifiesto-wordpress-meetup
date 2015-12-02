@@ -1,12 +1,11 @@
 Manifiesto WordPress Meetup
 20 Enero 2015
 
-Mediante el presente Manifiesto, pretendemos crear unas normas de conducta a seguir en los eventos 
+Mediante el presente manifiesto, pretendemos crear normas de conducta a seguir en los eventos 
 creados por y para la comunidad WordPress.
-Con ello se pretende que los eventos tipo Meetup o reuniones informales, tengan una uniformidad de criterios 
-a seguir, teniendo en cuenta que el fin principal es la difusión del software libre, abierto y gratuito WordPress.
-Mediante el presente Manifiesto, pretendemos crear unas normas de conducta a seguir en los eventos creados por y para la comunidad WordPress.
-Con ello se pretende que los eventos tipo Meetup o reuniones informales, tengan una uniformidad de criterios a seguir, teniendo en cuenta que el fin principal es la difusión del software libre, abierto y gratuito WordPress.
+
+Con ello se pretende que los eventos tipo meetup o reuniones informales tengan una uniformidad de criterios 
+a seguir, teniendo en cuenta que el fin principal es la difusión de WordPress, software libre, abierto y gratuito.
 
 IDEAS Y CONCEPTOS PREVIOS QUE SERÁN REVISADOS ANTES DE CREAR EL MANIFIESTO:
 ############################################################################
@@ -15,7 +14,7 @@ IDEAS Y CONCEPTOS PREVIOS QUE SERÁN REVISADOS ANTES DE CREAR EL MANIFIESTO:
 
     - La organización se realizará desde la comunidad local, por lo que cualquiera que quiera o pueda aportar algo será bienvenido.
 
-    - Aunque se organice desde la comunidad local, cualquiera de la comunidad general será recibido en el evento.
+    - Aunque se organice desde la comunidad local, cualquiera de la comunidad general será bien recibido en el evento.
 
     - No habrá ánimo de lucro.
 
@@ -30,15 +29,15 @@ IDEAS Y CONCEPTOS PREVIOS QUE SERÁN REVISADOS ANTES DE CREAR EL MANIFIESTO:
 
     - Se deberá respetar la marca WordPress.
 
-    - Todo el evento tendrá licencia GPL; esto significa que las ponencias serán compartidas con el público general, quedando disponibles para la comunidad.
+    - Todo el evento tendrá licencia GPL. Esto significa que las ponencias serán compartidas con el público general, quedando disponibles para la comunidad.
 
     - Los organizadores no podrán promocionar su marca por el simple hecho de haber organizado el evento.
 
-    - Para que un logotipo o marca comercial aparezca en el evento deberá tenerse la consideración de sponsor y para ello se deberá colaborar económicamente con el evento.
+    - Para que un logotipo o marca comercial aparezca en el evento deberá tenerse la consideración de patrocinador y para ello se deberá colaborar con el evento económicamente o aportando algo en especie.
 
-    - Una empresa o entidad no podrá organizar un evento WordPress, pero si sus miembros. Por ejemplo la empresa EMPRESA S.A. no puede ser organizador de una meetup, pero si Pedro Lopéz de EMPRESA S.A.
+    - Una empresa o entidad no podrá organizar un evento WordPress, pero sí sus miembros. Por ejemplo la empresa EMPRESA S.A. no puede ser organizador de una meetup, pero si Pedro Lopéz de EMPRESA S.A.
 
-    - Se tendrá especial cuidado con las ponencias ofrecidas por empresas o profesionales con el único fin de promocionar su producto o servicio (por ejemplo plugin comerciales). Si una empresa o profesional desea participar en el evento de esta manera deberá indicarse claramente que se trata de una charla o ponencia PATROCINADA y se deberá ofrecer una contraprestación económica por ello, de manera que se diferencie claramente de las ponencias ofrecidas sin ánimo de lucro.
+    - Se tendrá especial cuidado con las ponencias ofrecidas por empresas o profesionales con el único fin de promocionar su producto o servicio (por ejemplo plugin comerciales). Si una empresa o profesional desea participar en el evento de esta manera deberá indicarse claramente que se trata de una charla o ponencia PATROCINADA y se deberá ofrecer una contraprestación por ello, de manera que se diferencie claramente de las ponencias ofrecidas sin ánimo de lucro.
 
 
 
